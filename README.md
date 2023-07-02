@@ -32,5 +32,6 @@ Submit button with an id of submit to submit the form.
 
 OutPut
 
-![2023-07-02 (8)](https://github.com/emanueleiacca/Survey-Form/assets/128679981/06f82f9b-9c76-4dcd-a0cb-4aa12fc2e47b)
+![2023-07-02 (8)](https://github.com/emanueleiacca/Survey-Form/assets/128679981/634455db-8ac1-4ff2-aae1-59c47c0841e8)
+
 
